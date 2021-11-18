@@ -1,3 +1,2 @@
-yarn
 npm install
-yarn build
+npm build
