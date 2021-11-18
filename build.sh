@@ -1,2 +1,2 @@
-npm intall
-npm run build
+yarn
+yarn build
